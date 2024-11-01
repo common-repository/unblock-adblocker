@@ -1,0 +1,55 @@
+.uaplugin-banner img {
+    display: block;
+    width: 100%;
+    height: auto;
+}
+
+.uaplugin-admin-sidebar .promise {
+    font-size: 11px;
+    color: grey;
+}
+
+.uaplugin-admin-body textarea {
+    width: 100%;
+    min-height: 200px;
+    margin-bottom: 5px;
+}
+
+.uaplugin-admin-sidebar form {
+    padding: 20px;
+    border: 1px solid lightgrey;
+}
+
+#adminmenu a[href="admin.php?page=unblockadblocker_go_pro"], 
+.wp-list-table.plugins a[href="admin.php?page=unblockadblocker_go_pro"] {
+    font-weight: 700;
+    color: #4ab866;
+}
+
+h3.nav-tab-wrapper.kites_nav a {
+    display: block;
+    width: 100%;
+    padding: 12px;
+    background-color: #23282d;
+    color: #fff;
+}
+a.nav-tab.nav-tab-active {
+    background-color: #525354 !important;
+}
+
+
+
+#poststuff #post-body.columns-2 {
+    margin-right: 300px;
+    display: flex;
+}
+
+.nav_area {
+    width: 20%;
+    margin-right: 50px;
+}
+
+div#post-body-content {
+    background-color: white;
+    padding: 12px;
+}

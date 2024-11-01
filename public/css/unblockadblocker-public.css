@@ -1,0 +1,4 @@
+
+
+#ua-unblockadblocker-blanket{visibility:hidden;position:fixed;left:0;top:0;right:0;bottom:0;background-color:rgba(0,0,0,0.85);opacity:0;transition:opacity 0.2s cubic-bezier(0.4, 0, 0.2, 1);z-index:9999999}#ua-unblockadblocker-blanket button{position:absolute;top:20px;right:20px;padding:0;background:none;color:inherit}#ua-unblockadblocker-blanket>div{display:flex;justify-content:center;align-items:center;height:100%;transition:transform 0.2s cubic-bezier(0.4, 0, 0.2, 1);transform:translateY(-2300px)}#ua-unblockadblocker-blanket>div>div{position:relative;padding:20px;border-radius:3px}.ua-unblockadblocker-disable-scroll{overflow:hidden}.ua-unblockadblocker-disable-scroll #ua-unblockadblocker-blanket{visibility:visible;opacity:1;transition:opacity .3s ease-in-out}.ua-unblockadblocker-disable-scroll #ua-unblockadblocker-blanket>div{transition:transform .5s ease-in-out;transform:translateY(0px)}
+
